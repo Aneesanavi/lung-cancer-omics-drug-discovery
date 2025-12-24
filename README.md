@@ -1,9 +1,7 @@
 # lung-cancer-omics-drug-discovery
 Multi-omics biomarker–driven drug repurposing for lung cancer using Open Targets and ChEMBL with pathway-level integration.
+
 # 🧬 Omics-Driven Drug Repurposing for Lung Cancer
-
-
-   # 🧬 Omics-Driven Drug Repurposing for Lung Cancer
 
 ## Repository Overview
 This repository presents a complete **omics-to-drug discovery pipeline** for lung cancer.  
